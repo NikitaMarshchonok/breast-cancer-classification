@@ -56,9 +56,3 @@ Each model was also evaluated using 5-fold cross-validation to ensure stable and
 - Pandas, Seaborn, Matplotlib
 - Scikit-learn
 - Google Colab
-
-## 🚀 How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/NikitaMarshchonok/breast-cancer-classification.git
